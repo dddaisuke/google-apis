@@ -1,0 +1,2 @@
+# google-apis
+Google APIをRubyからアクセスするサンプルです。
